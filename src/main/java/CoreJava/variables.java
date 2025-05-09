@@ -25,4 +25,5 @@ public class variables
         variables vv= new variables();
         vv.Dhana();
     }
+
 }
