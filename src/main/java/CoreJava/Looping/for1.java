@@ -1,12 +1,10 @@
 package CoreJava.Looping;
 
-public class Demo_while {
+public class for1 {
     public static void main(String[] args) {
-        int cosmo=0;
-        while(cosmo<10)
+        for(int cosmo=0;cosmo<10;cosmo++)
         {
             System.out.println("Dhanasekar");
-            cosmo++;
         }
     }
 }
